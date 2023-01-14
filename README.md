@@ -1,4 +1,9 @@
 # IBM-Data-Analytics-Capstone-Project
+
+# IBM Data Analytics Capstone Project - Survey Data from Stack Overflow regarding current and future trends of Programming Languages.
+Welcome to my IBM data science capstone project! In this repository, you will find a collection of data analysis, machine learning, and data visualization tools and techniques that I have developed to find the current and future trends of Programming Languages based on the survey data from Stack Overflow.
+* **Note: Copy the notebook link and run in https://nbviewer.org/ to have a better viewing experience.**
+
 ![IBM Data Analytics](https://user-images.githubusercontent.com/115359056/211785498-151b1e04-8624-4fdd-83cc-2782cf7f7d1d.jpg)
 
 # Contents
